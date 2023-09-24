@@ -27,19 +27,3 @@ Para o desenvolvimento deste site utilizei as seguintes tecnologias:
 - ScrollReveal;
 - SVG Inject;
 
----
-
-<h2>🦄 Autor</h2>
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/hamiceis">
-        <img src="https://avatars.githubusercontent.com/u/92181823?v=4" width="100px;" alt="Foto do hamiceis no GitHub"/><br>
-        <sub>
-          <b>Hamiceis</b>
-        </sub>
-      </a>
-    </td>
-  </tr>
-</table>
